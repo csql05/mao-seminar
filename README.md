@@ -8,6 +8,7 @@ https://elmas3.github.io/mao-seminar/
 エルマス
 わかば
 和平
+jyo
 
 # ディレクトリ構成
 ```
